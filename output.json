@@ -1,0 +1,13 @@
+{
+    "CONSTANT_X": 50,
+    "CONSTANT_Y": 80,
+    "CONSTANT_Z": 4000,
+    "CONSTANT_ARRAY": [
+        5,
+        10,
+        15
+    ],
+    "CONSTANT_A": 15,
+    "CONSTANT_B": 1,
+    "COMPLEX_EXPRESSION": 10
+}

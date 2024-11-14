@@ -1,0 +1,18 @@
+<!-- Это комментарий о конфигурации -->
+#( 1 2 3 4 )
+
+CONSTANT_X = 50
+CONSTANT_Y = |+ CONSTANT_X 30|
+CONSTANT_Z = |* CONSTANT_X CONSTANT_Y|
+
+# Массив чисел
+#( 10 20 30 40 )
+
+CONSTANT_ARRAY = #( 5 10 15 )
+
+<!-- Еще один многострочный комментарий -->
+CONSTANT_A = |+ 5 10|  <!-- Сложение констант -->
+CONSTANT_B = |mod CONSTANT_A 7| <!-- Операция по модулю -->
+
+# Пример с более сложным выражением
+COMPLEX_EXPRESSION = |+ |* 2 3| 4|
